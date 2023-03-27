@@ -13,7 +13,7 @@
     - Country Name
     - Weather related Icons
     - Teamperature
-    - Weather Condition like Haze,clouds or Rain ect
+    - Weather Condition like Haze,clouds or Rain etc
     
 <img width="960" alt="new_delhi" src="https://user-images.githubusercontent.com/125373233/228028493-eaf9530c-5e05-454a-b03c-bb971e79d3cf.png">
 <img width="960" alt="mumbai" src="https://user-images.githubusercontent.com/125373233/228028522-e0e97296-e517-40f5-94ed-6a2135e93ebf.png">
